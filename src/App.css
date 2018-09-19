@@ -1,0 +1,136 @@
+p.c {
+text-align: right;
+}
+
+.a {
+  background-color: rgb(255, 255, 255); 
+}
+
+
+.b {
+  font-family: Monospace;
+  font-size: 20px;
+  background-color: slateblue;
+  color: #ff6347;
+  border-bottom: 5px solid red;
+}
+
+.c {
+  background-color: hsla(9, 100%, 64%, 0.2); 
+  font-size: 30px;
+  color: red;
+
+}
+
+.d {
+  color: #00ff00;
+  font-size: 25px; 
+  border: 2px solid green;
+  background-color: hsl(9, 100%, 64%);
+  padding-top: 20px;
+  padding-right: 80px;
+  padding-bottom: 40px;
+  padding-left: 60px;
+  
+}
+
+.dashed {
+ border-style: dashed;
+ /* margin: auto; */
+  width: 300px;
+  padding: 25px;
+  margin: 10px;
+ /* box-sizing: border-box; */
+}
+
+.mix {
+  border-style: dotted groove dashed solid;
+  border-color: blue;
+  margin: 80px 50px 20px;
+  max-width: 500px;
+}
+
+.e {
+  border-top-style: double;
+  border-left-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dashed;
+  border-width: 10px 5px 10px 5px;
+  border-color: green red purple gold;
+  margin: 10px 90px 110px 180px;
+}
+
+.f {
+  border: 10px solid red;
+  border-radius: 8px;
+  margin-top: 40px;
+  margin-right: 125px;
+  margin-bottom: 30px;
+  margin-left: 20px; 
+}
+
+.g {
+  height: 100px; 
+  width: 90px;
+  background-color: grey;
+  border: 25px solid red;
+  padding: 20px;
+  margin: 50px;
+}
+
+.h {
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+
+.i {
+    border: 10px solid black;
+    outline: #4CAF50 double 10px;
+    margin: 100px;    
+    padding: 20px;
+    text-align: center;
+}
+
+.j {
+    border: 10px solid black;
+    margin: 100px;    
+    padding: 20px;
+    text-align: center;
+    outline-color: invert ;
+    outline-style: double;
+    outline-width: 10px;
+    outline-offset: 20px; 
+}
+
+.k {
+  border: solid 2px black;
+  font-size: 20px;
+  text-align: justify;
+  text-indent: 40px;
+  color: black;
+  text-decoration: none;
+  text-transform: capitalize;
+  letter-spacing: 2px;
+  line-height: 20px;
+  word-spacing: 10px;
+  text-shadow: 3px 2px red;
+
+}
+
+.l {
+  font-family: Arial;
+  font-style: italic;
+  font-size: 5vw; /* 2.5em; */  /* 40px/16=2.5em */
+  font-weight: bold;
+  font-variant: petite-caps;
+}
+
+.m {
+
+}
+
+.n {
+
+}
